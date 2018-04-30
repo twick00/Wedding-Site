@@ -1,16 +1,5 @@
 import React, { Component } from "react";
-import {
-  Carousel,
-  Grid,
-  Row,
-  Col,
-  FormGroup,
-  ControlLabel,
-  FormControl,
-  HelpBlock,
-  Form,
-  Button
-} from "react-bootstrap";
+import { Carousel } from "react-bootstrap";
 import image1 from "../../img/Image1.jpg";
 import image2 from "../../img/Image2.jpg";
 import image3 from "../../img/Image3.jpg";
